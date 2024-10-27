@@ -1070,7 +1070,7 @@ PrefabInstance:
     - target: {fileID: 6654581457690879298, guid: e08dd13a66cc1314b94bc35c33215f68,
         type: 3}
       propertyPath: useCameraChange
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6654581457690879298, guid: e08dd13a66cc1314b94bc35c33215f68,
         type: 3}
